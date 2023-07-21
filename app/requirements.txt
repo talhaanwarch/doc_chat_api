@@ -1,0 +1,12 @@
+wheel==0.40.0
+setuptools==67.8.0
+sentence-transformers==2.2.2
+openai==0.27.8
+langchain==0.0.195
+fastapi==0.96.0
+uvicorn==0.22.0
+sqlmodel==0.0.8
+pymilvus==2.2.8
+python-dotenv==1.0.0
+tiktoken==0.4.0
+gpt4all==0.3.0
